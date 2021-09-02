@@ -23,7 +23,7 @@ Multiple Linear Regression performed, performed exploratory data
 - **MEDV (target)**: Median value of owner-occupied homes in $1000's [k$]
 
   
-## Table Contents
+## Table of Contents
 
 1. Import the libraries
 
